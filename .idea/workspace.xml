@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="67f9738d-f07d-4020-8f7c-2df006b9a78e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/navigation/MainNavigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/navigation/MainNavigation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Timer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/CategoryScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/CategoryScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/EndPointScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/EndPointScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/QuizScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/QuizScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/RulesScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/RulesScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/ScoreScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/ScoreScreen.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rfYDN3US2cLcYKIb3i2cb5AhZG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67f9738d-f07d-4020-8f7c-2df006b9a78e" name="Default Changelist" comment="" />
+      <created>1619368490473</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619368490473</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="809" y="145" width="774" height="826" key="AVDManager" timestamp="1619567370702">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="809" y="145" width="774" height="826" key="AVDManager/0.0.1920.1040@0.0.1920.1040" timestamp="1619567370702" />
+  </component>
+</project>
